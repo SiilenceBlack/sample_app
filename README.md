@@ -2,6 +2,8 @@
 
 This README is something i need to change because of reasons i dont get yet.
 
+3.8 Got lost somewhere somehow
+
 Things you may want to cover:
 
 * Ruby version
