@@ -5,4 +5,7 @@ class SimplePagesController < ApplicationController
   end
   def contact
   end
+  def landing_page
+    @featlured_product = Product.first
+  end
 end
